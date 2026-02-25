@@ -1,4 +1,4 @@
-## Hi there, I'm Laurane !
+## Hi there, I'm Laurane ! 🌟
 
 🎓 I'm currently studying at EPFL. <br>
 🧪 I'm completing my bachleor degree in chemistry. <br>
