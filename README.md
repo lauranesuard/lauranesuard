@@ -1,8 +1,8 @@
 ## Hi there, I'm Laurane !
 
-🎓 I'm currently studying at EPFL.
-🧪 I'm completing my bachleor degree in chemistry. 
-⚡ If you want to reach me, I'm contactable at laurane.suard@epfl.ch . 
+🎓 I'm currently studying at EPFL. <br>
+🧪 I'm completing my bachleor degree in chemistry. <br>
+⚡ If you want to reach me, I'm contactable at laurane.suard@epfl.ch . <br>
 
 <!--
 **lauranesuard/lauranesuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
