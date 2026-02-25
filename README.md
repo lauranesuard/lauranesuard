@@ -1,7 +1,7 @@
 ## Hi there, I'm Laurane ! 🌟
 
 🎓 I'm currently studying at EPFL. <br>
-🧪 I'm completing my bachleor degree in chemistry. <br>
+🧪 I'm completing my bachelor degree in chemistry. <br>
 ⚡ If you want to reach me, I'm contactable at laurane.suard@epfl.ch . <br>
 
 <!--
